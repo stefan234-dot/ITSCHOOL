@@ -5,7 +5,7 @@ public class SecondClass {
    static void main() {
        int age = 20;
        String nume = "Stefan";
-       String color = "albastru";
+       String color = "galben";
        System.out.println("NUmele meu este" +nume);
        System.out.println("Culoarea mea preferata este" +color);
        System.out.println("varsta mea este" +age);
