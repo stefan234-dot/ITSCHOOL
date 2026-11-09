@@ -4,11 +4,13 @@ import java.util.Scanner;
 public class SecondClass {
    static void main() {
        int age = 20;
+       int age_2 = 10;
        String nume = "Stefan";
        String color = "galben";
        System.out.println("NUmele meu este" +nume);
        System.out.println("Culoarea mea preferata este" +color);
        System.out.println("varsta mea este" +age);
+       System.out.println("afisam" +age_2);
 
        int numar = 35;
        double pret = 14.5;
